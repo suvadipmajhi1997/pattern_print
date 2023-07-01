@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d78ee27c-ff0e-470e-b27d-b5bcc8c5f5de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pattern_01/pattern_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_02/pattern_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_03/pattern_03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_04/pattern_04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_05/pattern_05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_06/pattern_06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_07/pattern_07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_09/pattern_09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_10/pattern_10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_11/pattern_11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_12/pattern_12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_13/pattern_13.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RuQ000KJUMZIuLMhHSNreXIDuz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/pattern"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78ee27c-ff0e-470e-b27d-b5bcc8c5f5de" name="Changes" comment="" />
+      <created>1688097259812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688097259812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
